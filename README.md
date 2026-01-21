@@ -1,2 +1,2 @@
-# ss-projects
+# ss_projects
 StrataScratch projects
